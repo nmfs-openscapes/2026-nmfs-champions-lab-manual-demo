@@ -33,6 +33,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: content/ileana.md 
+        text: demo-add content
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
