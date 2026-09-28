@@ -34,7 +34,7 @@ website:
       - href: index.qmd
         text: Home
       - href: content/ileana.md 
-        text: demo-add content
+        text: Ileana's new page! 
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
