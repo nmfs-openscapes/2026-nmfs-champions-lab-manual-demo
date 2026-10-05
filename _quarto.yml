@@ -44,7 +44,7 @@ website:
           - href: content/Hardware.qmd
             text: Hardware
       - href: content/FieldMethods.qmd
-        text: "Field Methods"
+        text: "NEW SECTION FOR MY LAB GROUP"
       - href: content/DataManagement.qmd
         text: Data Management
       - href: content/Hardware.qmd
