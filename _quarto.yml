@@ -33,8 +33,6 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/ileana.md 
-        text: Ileana's new page! 
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
@@ -44,7 +42,7 @@ website:
           - href: content/Hardware.qmd
             text: Hardware
       - href: content/FieldMethods.qmd
-        text: "NEW SECTION FOR MY LAB GROUP"
+        text: "Field Methods"
       - href: content/DataManagement.qmd
         text: Data Management
       - href: content/Hardware.qmd
@@ -88,5 +86,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
